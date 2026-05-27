@@ -14,12 +14,6 @@ int main()
         printf("\n");
     }
 
-   /*
-   (i=0) = inicio onde o contador inicia de 0 ate....
-   (i<L) = enquanto seja menor que... (neste caso menor que 5 que é o valor de L)
-   (i++) =  icremento ao final da regra (final da linha +1 ate chegar na condição)
-   */
-
 
     int t, k;
     
@@ -48,7 +42,6 @@ int main()
         printf("\n");
     }
     
-  
  
     return 0;
 }
