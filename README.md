@@ -40,4 +40,4 @@ O estudo de matrizes é um dos pilares em Ciência da Computação, servindo com
 
 ## 👤 Autora
 
-* **Karina Beilich** - [Seu GitHub](https://github.com/KarinaBeilich)
+* **Karina Beilich** - (https://github.com/KarinaBeilich)
